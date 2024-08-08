@@ -70,7 +70,7 @@ This project is a server-side service for managing presentations. The service is
 
 - **Delete a Presentation**:
     - **Method**: `DELETE`
-    - **Endpoint**: `/api/presentations/:title`
+    - **Endpoint**: `/api/presentations/:title   or  /api/presentations/:presentationId`
 
 - **Get All Presentations**:
     - **Method**: `GET`
